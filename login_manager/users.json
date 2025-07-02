@@ -1,0 +1,17 @@
+{
+  "will": {
+    "username": "will",
+    "password": "5E884898DA28047151D0E56F8DC6292773603D0D6AABBDD62A11EF721D1542D8",
+    "role": "Admin"
+  },
+  "admin": {
+    "username": "admin",
+    "password": "5E884898DA28047151D0E56F8DC6292773603D0D6AABBDD62A11EF721D1542D8",
+    "role": "Admin"
+  },
+  "bob": {
+    "username": "bob",
+    "password": "82E35A63CEBA37E9646434C5DD412EA577147F1E4A41CCDE1614253187E3DBF9",
+    "role": "User"
+  }
+}
