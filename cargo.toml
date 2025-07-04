@@ -1,3 +1,3 @@
 [workspace]
 
-members = ["variables", "authentication", "login", "login_manager", "hello_thread", "hello_channel", "work_queue", "hello_rayon"]
+members = ["variables", "authentication", "login", "login_manager", "hello_thread", "hello_channel", "work_queue", "hello_rayon", "hello_async", "hello_tokio", "tokio_tests", "hello_error", "rest_client", "tcp_server", "tokio_select", "log_trace", "databases", "web_service"]
