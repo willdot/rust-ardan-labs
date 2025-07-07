@@ -1,1 +1,6 @@
 /target
+**/images/
+**.db
+**.db-shm
+**.db-wal
+.env
