@@ -1,0 +1,10 @@
+[package]
+name = "network-service-collector"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+network-service-shared = { path= "../network-service-shared" }
+sysinfo = { version = "0.35.2", features = ["apple-app-store"] }
+thiserror = "2.0.12"
+uuid = { version = "1.17.0", features = ["v4", "fast-rng"] }
